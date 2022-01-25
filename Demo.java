@@ -4,4 +4,8 @@ public class Demo{
 		System.out.println("Sachin-IT");
 	} 
 
+	public void m2(){
+  		System.out.println("Software Solutions");
+        }
+
 }
